@@ -1,0 +1,8 @@
+pkg install python
+pkg install python2
+pkg install git
+pip2 install requests
+pip2 install mechanize
+git clone https://github.com/Nhluvuk/Rehaan
+cd R-GUPTA
+python2 Rehaan.py
